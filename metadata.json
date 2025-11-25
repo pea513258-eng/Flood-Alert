@@ -1,0 +1,9 @@
+{
+  "name": "Copy of FloodRescueTH - ระบบแจ้งเหตุฉุกเฉินน้ำท่วม",
+  "description": "แอปพลิเคชันสำหรับแจ้งขอความช่วยเหลือน้ำท่วม วิเคราะห์ภาพถ่ายด้วย AI เพื่อระบุความเร่งด่วนและตำแหน่ง",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
